@@ -1,0 +1,28 @@
+/** Name:  Essa Tahir
+ * Assignment:  Assignment5
+ * Program: PROG24178
+ *
+ * Making a icecream inventory
+ */
+.text-area{
+    -fx-font-family: monospace;
+    -fx-font-size: 14;
+}
+.label{
+    -fx-font-size: 14;
+    -fx-font-weight: bold;
+    -fx-text-fill: blue;
+}
+.error{
+    -fx-text-fill: red;
+}
+.grid-pane{
+    -fx-hgap: 15;
+    -fx-vgap: 15;
+    -fx-alignment: center;
+}
+#title{
+    -fx-text-alignment: center;
+    -fx-font-size: 24;
+}
+

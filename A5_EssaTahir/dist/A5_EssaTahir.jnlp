@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="A5_EssaTahir.jnlp">
+  <information>
+    <title>A5_EssaTahir</title>
+    <vendor>Essa OG</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="A5_EssaTahir.jar" size="9816" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="A5_EssaTahir" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="A5_EssaTahir.Store"  name="A5_EssaTahir" />
+  <update check="always"/>
+</jnlp>
